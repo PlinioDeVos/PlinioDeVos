@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" style="transform: rotate(180deg);" alt="Top banner"/>
+<img src="assets/top-banner.svg" alt="Top banner"/>
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=30&pause=1000&color=9CCFD8&center=true&width=435&lines=Hey%2C+I+am+Plinio!+🚀;Welcome+to+my+profile!+👋" alt="Typing SVG" /></a>
 </div>
@@ -46,4 +46,4 @@ fn main() {
 [![GitHub Streak](https://streak-stats.demolab.com?user=PlinioDeVos&theme=rose-pine&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
-<img src="assets/banner.svg" alt="Bottom banner"/>
+<img src="assets/bottom-banner.svg" alt="Bottom banner"/>
