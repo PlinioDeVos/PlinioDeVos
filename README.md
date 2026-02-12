@@ -1,6 +1,6 @@
 <img src="assets/top-banner.svg" alt="Top banner"/>
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=30&pause=1000&color=9CCFD8&center=true&width=435&lines=Hey%2C+I+am+Plinio!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Welcome+to+my+profile!+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=30&pause=1000&color=9CCFD8&center=true&width=435&lines=Hey%2C+I+am+Plinio!+👨🏻‍💻;Welcome+to+my+profile!+👋🏻" alt="Typing SVG" /></a>
 </div>
 <hr color="#9ccfd8">
 <br>
