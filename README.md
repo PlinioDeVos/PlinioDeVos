@@ -1,8 +1,9 @@
-<img src="assets/top-banner.svg" alt="Top banner"/>
+<img src="assets/banner.svg" style="transform: rotate(180deg);" alt="Top banner"/>
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=30&pause=1000&color=9CCFD8&center=true&width=435&lines=Hey%2C+I+am+Plinio!+🚀;Welcome+to+my+profile!+👋" alt="Typing SVG" /></a>
 </div>
-<hr color="#9ccfd8">
+<img src="assets/divider.svg" width="100%"/>
+<br>
 <br>
 <div align="center">
     <strong>👋🏻 Hi there!</strong>
@@ -34,7 +35,7 @@ fn main() {
     println!("Status: {}", me.status);
 }
 ```
-<hr color="#9ccfd8">
+<img src="assets/divider.svg" width="100%"/>
 <div align="center">
     <h2>Tech Stack 💻</h2>
   <img src="https://skillicons.dev/icons?i=rust,java,python,go,dotnet,nix,vue,angular,postgres,docker,k8s,vim,git,linux" />
@@ -42,7 +43,7 @@ fn main() {
 <div align="center">
     <h2>Stats ⚡</h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PlinioDeVos&show_icons=true&theme=rose)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PlinioDeVos&theme=rose-pine&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
-<img src="assets/bottom-banner.svg" alt="Bottom banner"/>
+<img src="assets/banner.svg" alt="Bottom banner"/>
