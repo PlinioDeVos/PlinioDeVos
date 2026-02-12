@@ -37,7 +37,7 @@ fn main() {
 <hr color="#9ccfd8">
 <div align="center">
     <h2>Tech Stack 💻</h2>
-  <img src="https://skillicons.dev/icons?i=rust,java,go,dotnet,nix,vue,angular,docker,k8s,vim,git,linux" />
+  <img src="https://skillicons.dev/icons?i=rust,java,python,go,dotnet,nix,vue,angular,postgres,docker,k8s,vim,git,linux" />
 </div>
 <div align="center">
     <h2>Stats ⚡</h2>
