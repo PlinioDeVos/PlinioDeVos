@@ -15,7 +15,7 @@
     💼 Currently an intern at the <a href="https://www.government.nl/ministries/ministry-of-the-interior-and-kingdom-relations">Ministry of the Interior and Kingdom Relations</a> in the Netherlands.
     <br>
     <br>
-    💬 Want to contact me? Feel free to reach me <a href="https://github.com/PlinioDeVos/PlinioDeVos/issues" title="Issues">here</a>
+    💬 Want to contact me? Feel free to reach me <a href="https://github.com/PlinioDeVos/PlinioDeVos/issues" title="Issues">here</a>!
 </div>
 <br>
 
@@ -35,10 +35,16 @@ fn main() {
     println!("Status: {}", me.status);
 }
 ```
+```
+$ cargo run
+🦀 Rust aficionado
+Status: Learning and exploring the Rust programming language
+```
+
 <img src="assets/divider.svg" width="100%"/>
 <div align="center">
     <h2>Tech Stack 💻</h2>
-  <img src="https://skillicons.dev/icons?i=rust,java,python,go,dotnet,nix,vue,angular,postgres,docker,k8s,vim,git,linux" />
+  <img src="https://skillicons.dev/icons?i=rust,java,python,go,dotnet,nix,vue,angular,postgres,docker,k8s,neovim,git,linux" />
 </div>
 <div align="center">
     <h2>Stats ⚡</h2>
