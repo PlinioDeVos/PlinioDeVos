@@ -44,7 +44,7 @@ Status: Learning and exploring the Rust programming language
 <img src="assets/divider.svg" width="100%"/>
 <div align="center">
     <h2>Tech Stack 💻</h2>
-  <img src="https://skillicons.dev/icons?i=rust,java,python,go,dotnet,nix,vue,angular,postgres,docker,k8s,neovim,git,linux" />
+  <img src="https://skillicons.dev/icons?i=rust,java,spring,python,go,dotnet,nix,vue,angular,postgres,docker,k8s,neovim,git,linux" />
 </div>
 <div align="center">
     <h2>Stats ⚡</h2>
